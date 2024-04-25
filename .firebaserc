@@ -1,8 +1,5 @@
 {
   "projects": {
-    "default": "githubactionpractice-fe778",
-    "GithunActionPractice": "githubactionpractice-fe778"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "githubactionpractice-fe778"
+  }
 }
